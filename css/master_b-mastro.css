@@ -1,0 +1,17 @@
+#u160
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+}
+
+#u164
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/logo%20daiwa.png") no-repeat center center;
+	background-size: cover !important;
+}
+

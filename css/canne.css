@@ -1,0 +1,410 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u85
+{
+	z-index: 2;
+	width: 380px;
+	padding-bottom: 2px;
+}
+
+#u87
+{
+	z-index: 5;
+	width: 203px;
+	height: 46px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 89px;
+}
+
+#pu251
+{
+	width: 0.01px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u251
+{
+	z-index: 14;
+	width: 380px;
+	height: 61px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #29ABE2;
+	opacity: 0.42;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=42)";
+	filter: alpha(opacity=42);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u251.MuseLinkActive
+{
+	border-style: none;
+	width: 381px;
+	height: 62px;
+	min-height: 1px;
+	margin: 0px -9999px 1px 0px;
+}
+
+#u249-4
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 19px;
+}
+
+#pamphletu440
+{
+	z-index: 65;
+	width: 0.01px;
+	height: 706px;
+	padding-bottom: 483px;
+	margin-left: 164px;
+	position: relative;
+}
+
+#u457
+{
+	position: absolute;
+	width: 131px;
+}
+
+#u457popup
+{
+	z-index: 66;
+}
+
+#u462
+{
+	z-index: 67;
+	width: 131px;
+	height: 1189px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: #FFFFFF url("../images/morethan%20copia-u462-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u441
+{
+	z-index: 68;
+	width: 71px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 146px;
+}
+
+#u442
+{
+	position: absolute;
+	width: 69px;
+	height: 691px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background: transparent url("../images/morethan%20copia-u442-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u442:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	border-style: none;
+	border-color: transparent;
+	width: 70px;
+	height: 692px;
+	min-height: 1px;
+	margin: 0px 1px 1px 0px;
+	background-size: contain !important;
+}
+
+#u442:active
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	border-style: none;
+	border-color: transparent;
+	width: 70px;
+	height: 692px;
+	min-height: 1px;
+	margin: 0px 1px 1px 0px;
+	background-size: contain !important;
+}
+
+#u442.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	border-style: none;
+	border-color: transparent;
+	width: 70px;
+	height: 692px;
+	min-height: 1px;
+	margin: 0px 1px 1px 0px;
+	background-size: contain !important;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u250-4
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	top: -1176px;
+	margin-bottom: -540px;
+	position: relative;
+}
+
+#u485-4
+{
+	z-index: 47;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	top: -614px;
+	margin-bottom: -19px;
+	position: relative;
+}
+
+#pu487
+{
+	width: 0.01px;
+	margin-left: 25px;
+	top: -583px;
+	margin-bottom: -50px;
+	position: relative;
+}
+
+#u487
+{
+	z-index: 59;
+	width: 71px;
+	height: 49px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #00A99D;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u489
+{
+	z-index: 61;
+	width: 71px;
+	height: 49px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #0071BC;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 81px;
+}
+
+#u490
+{
+	z-index: 62;
+	width: 71px;
+	height: 49px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #ED1C24;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 162px;
+}
+
+#u491-4
+{
+	z-index: 55;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	top: -494px;
+	margin-bottom: -19px;
+	position: relative;
+}
+
+#u260-24
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	top: -471px;
+	margin-bottom: -185px;
+	position: relative;
+}
+
+#u492-4
+{
+	z-index: 51;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	top: -247px;
+	margin-bottom: -19px;
+	position: relative;
+}
+
+#pu493
+{
+	width: 0.01px;
+	margin-left: 25px;
+	top: -214px;
+	margin-bottom: -186px;
+	position: relative;
+}
+
+#u493
+{
+	z-index: 60;
+	width: 104px;
+	height: 185px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #00A99D;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u494
+{
+	z-index: 64;
+	width: 104px;
+	height: 185px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #0071BC;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 118px;
+}
+
+#u495
+{
+	z-index: 63;
+	width: 104px;
+	height: 185px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #ED1C24;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 237px;
+}
+
+#pu101
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u101
+{
+	z-index: 3;
+	width: 189px;
+	padding-bottom: 6px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+}
+
+#u105-4
+{
+	z-index: 6;
+	width: 190px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: -1px;
+}
+
+#u104
+{
+	z-index: 4;
+	width: 189px;
+	padding-bottom: 6px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	left: 190px;
+}
+
+#u109-4
+{
+	z-index: 10;
+	width: 190px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: -1px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
