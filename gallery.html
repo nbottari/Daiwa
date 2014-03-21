@@ -7,7 +7,7 @@
 
 <meta charset="utf-8">
 <title>Trixy Mobile Template</title>
-<meta name="description" content="DAIWA">
+<meta name="description" content="Place to put your description text">
 <meta name="author" content="">
 
 <!-- Mobile Specific Metas ================================================== 
@@ -33,60 +33,34 @@
 <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
 <script type="text/javascript" src="js/portfolio/klass.min.js"></script>
 <script type="text/javascript" src="js/portfolio/code.photoswipe.jquery-3.0.4.min.js"></script>
-<script src="js/slider/jquery.flexslider-min.js"></script>
 <script src="js/custom.js"></script>
 </head>
 <body>
 <div data-role="page"> 
-  
   <!-- header -->
-  <div data-role="header" class="page-header">
-    <div class="logo"></div>
-    <p>DAIWA INTERACTIVE CATALOG</p>
-  </div>
+  <div data-role="header" class="buttons" data-add-back-btn="true"> <a data-icon="arrow-l" data-iconpos="notext" rel="external" href="index.html">Back</a> <a href="index.html" data-icon="home" data-iconpos="notext" rel="external" class="ui-btn-right">Home</a> </div>
   <!--/header --> 
   
-  <!-- slider -->
-  <div class="flex-container">
-    <div class="flexslider">
-      <ul class="slides">
-        <li> <img src="images/1.jpg" alt="slide"></li>
-        <li> <img src="images/2.jpg" alt="slide"> </li>
-        <li> <img src="images/3.jpg" alt="slide"> </li>
-        <li> <img src="images/4.jpg" alt="slide"> </li>
-      </ul>
-    </div>
-  </div>
-  <!-- /slider --> 
-  
-  <!-- social --><!-- /social --> 
-  
-  <!-- main content -->
-  <div data-role="content">
-    <hr class="blankseparator"/>
-    <div data-role="controlgroup" >
-      <ul data-role="listview" data-inset="true" id="listview">
-        <li><a href="about.html" data-prefetch data-transition="flip">Canne</a></li>
-        <li><a href="portfolio.html" data-prefetch data-transition="fade">Mulinelli</a></li>
-        <li><a href="blog.html" data-prefetch data-transition="turn">Esche Artificiali</a></li>
-        <li><a href="features.html" data-prefetch data-transition="slidedown">Accessori</a></li>
-        <li><a href="contact.html" data-prefetch data-transition="pop">Contatto</a></li>
-      </ul>
-    </div>
-    <hr class="blankseparator"/>
-    <!-- list begins -->
-    
-    <!-- list ends -->
-    <hr class="blankseparator"/>
-    <div class="quote1">
-      <h3 class="home-title">&quot; Dai un pesce ad un uomo e lo farai mangiare per un giorno. </h3>
-      <h3 class="home-title">Insegna a pescare ad un uomo e lo avrai sfamato per tutta la vita.&quot;</h3>
-    </div>
-    <!-- end quote --> 
-    
+  <!-- banner & title -->
+  <h2 class="pageTitle"><span>Gallery</span></h2>
+  <div class="bannerContainer"> <img src="images/4.jpg" class="banner" alt=""> </div>
+  <!-- /banner & title --> 
+  <!-- main content --> 
+  <!-- social --><!-- /social -->
+  <div data-role="content" class="portfolio">
+    <ul id="gallery">
+      <li><a href="images/schermata 2014-03-20 alle 102356-u168-fr.jpg" rel="external"><img src="js/portfolio/images/1s.jpg" alt="Title" /></a></li>
+      <li><a href="images/schermata 2014-03-20 alle 102442-u174-fr.jpg" rel="external"><img src="js/portfolio/images/2s.jpg" alt="Title" /></a></li>
+      <li><a href="images/schermata 2014-03-20 alle 102617-u176-fr.jpg" rel="external"><img src="js/portfolio/images/1s.jpg" alt="Title" /></a></li>
+      <li><a href="images/schermata 2014-03-20 alle 102716-u178-fr.jpg" rel="external"><img src="js/portfolio/images/2s.jpg" alt="Title" /></a></li>
+      <li><a href="js/portfolio/images/1L.jpg" rel="external"><img src="js/portfolio/images/1s.jpg" alt="Title" /></a></li>
+      <li><a href="js/portfolio/images/2L.jpg" rel="external"><img src="js/portfolio/images/2s.jpg" alt="Title" /></a></li>
+      <li><a href="js/portfolio/images/1L.jpg" rel="external"><img src="js/portfolio/images/1s.jpg" alt="Title" /></a></li>
+      <li><a href="js/portfolio/images/2L.jpg" rel="external"><img src="js/portfolio/images/2s.jpg" alt="Title" /></a></li>
+      <li><a href="js/portfolio/images/1L.jpg" rel="external"><img src="js/portfolio/images/1s.jpg" alt="Title" /></a></li>
+    </ul>
   </div>
   <!-- /main content --> 
-  
   <!-- footer -->
   <div data-role="footer" class="footer" data-position="fixed">
     <div data-role="navbar" class="navbar" data-grid="c">
@@ -105,6 +79,6 @@
   </div>
   <!-- /footer --> 
 </div>
-<!-- /page --> 
+<!-- /page -->
 </body>
 </html>
