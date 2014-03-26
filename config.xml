@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.daiwa.fassa.esecutiviondemand"
+    version   = "1.0.0">
+
+<name>Daiwa test</name>
+
+<description>
+Daiwa Test.
+</description>
+
+<author href="https://www.esecutiviondemand.it" email="nemo.bottari@vodafone.it">
+Nemo Bottari
+</author>
+
+</widget>
